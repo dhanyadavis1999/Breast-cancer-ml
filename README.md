@@ -13,6 +13,7 @@ Table of Contents
 
 Project overview
 This is an individual project on breast cancer analysis and there is a comparitive study between different models.The models used were logistic regression, Random forest an XG boost by considering various features of these models.
+
 Objectives
 1. To develop a machine learning model that can accurately classify breast tumours as benign or malignant based on diagnostic imaging data. 
 2. To reduce the feature space while preserving important diagnostic data by using dimensionality reduction techniques, such PCA.
