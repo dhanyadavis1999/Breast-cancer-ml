@@ -18,7 +18,7 @@ Objectives
 1. To develop a machine learning model that can accurately classify breast tumours as benign or malignant based on diagnostic imaging data. 
 2. To reduce the feature space while preserving important diagnostic data by using dimensionality reduction techniques, such PCA.
 3. To evaluate and compare the performance of multiple machine learning models (Random Forest, XGBoost, and Logistic Regression) using crucial measures such as F1-score, precision, recall, and AUC-ROC. 
-4. To choose the top-performing model for clinical usage while taking interpretability and generalisation into account, based on the major accuracy metric (AUC-ROC).
+4. To choose the top-performing model for clinical usage while taking interpretability and generalisation into account, based on the major accuracy metric .
    
  Dataset
  
@@ -48,6 +48,7 @@ Normalisation: However, normalisation, which entails scaling characteristics to 
 Principal Component Analysis (PCA): To reduce dimensionality while preserving variance, apply PCA after scaling. This process can improve model performance and processing efficiency by removing noise and multicollinearity.
 
 Model
+
 Three machine learning models are created and refined: Random Forest, XGBoost, and Logistic Regression. Performance criteria including F1-score, precision, recall, and AUC-ROC are used to assess these models; the main accuracy statistic is AUC-ROC. For clinical use, the model that best combines generalisation, interpretability, and accuracy is chosen.
 Three models—XGBoost, Random Forest, and Logistic Regression—were assessed. With balanced precision, recall, and F1-scores for both classes, Logistic Regression demonstrated significant generalisation without overfitting, achieving a test accuracy of 93.75%. With a test accuracy of 91.96%, XGBoost performed better than the others and was particularly good at handling unbalanced data. These findings demonstrate machine learning's promise as a dependable and expandable substitute for conventional diagnostic techniques, facilitating quicker and more precise treatment choices.
 
