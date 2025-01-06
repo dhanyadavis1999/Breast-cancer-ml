@@ -1,4 +1,5 @@
-# Breast Cancer ML
+# A COMPARATIVE STUDY OF MACHINE LEARNING MODELS ON BREAST CANCER
+
 
 This repository contains the work of a comparative study of machine learning models on breast cancer, part of my coursework at the University of Hertfordshire.
 
