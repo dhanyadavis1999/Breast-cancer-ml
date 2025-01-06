@@ -1,5 +1,5 @@
 # Breast-cancer-ml
-This repository contains the work of A comparitive study of machine learning models on breast cancer part of our course work at University of Hertfordshire
+This repository contains the work of A comparitive study of machine learning models on breast cancer part of my course work at University of Hertfordshire
 
 Table of Contents
 1.	Project Overview
